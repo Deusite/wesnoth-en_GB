@@ -38,5 +38,6 @@ i=0
 while [ "$i" -lt "$E" ]
 do
 let "i++"
-cp ~/wesnoth/po/${td[$i]}/en_GB.po ~/wesnoth-en_GB/${td[$i]}/en_GB.po
+cp ~/wesnoth-1.8/po/${td[$i]}/en_GB.po 
+~/wesnoth-en_GB/${td[$i]}/en_GB.po
 done
