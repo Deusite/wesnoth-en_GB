@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-01-15 11:52+0100\n"
-"PO-Revision-Date: 2011-02-22 04:09+0100\n"
+"PO-Revision-Date: 2011-02-22 04:37+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
@@ -460,7 +460,6 @@ msgstr ""
 "Perhaps, but if kings and great mages have not abolished them neither you "
 "nor I are ever likely to."
 
-# I don't like this supposed word "back-trail". What's wrong with trail?
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:344
 msgid ""
@@ -801,6 +800,7 @@ msgstr "Excellent. I’m eager to move on to the real foes."
 msgid "A Haunting in Winter"
 msgstr "A Haunting in Winter"
 
+# harvest: fulfilling Espreon's fears.
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:18
 msgid ""
@@ -809,10 +809,10 @@ msgid ""
 "find them. Malin’s power grows considerably under the constant tutelage of "
 "the necromancer."
 msgstr ""
-"Malin and Darken Volk spend the summer and autumn travelling up and down the "
-"lower Northlands. They attack small goblin villages and orc camps when they "
-"find them. Malin’s power grows considerably under the constant tutelage of "
-"the necromancer."
+"Malin and Darken Volk spend the summer and harvest travelling up and down "
+"the lower Northlands. They attack small goblin villages and orc camps when "
+"they find them. Malin’s power grows considerably under the constant tutelage "
+"of the necromancer."
 
 #. [side]: type=Dwarvish Steelclad, id=Dap Horner
 #. [side]: type=Bandit, id=Gorak Cole
@@ -1072,11 +1072,12 @@ msgid ""
 "minions. Word spreads among the orcish towns, which begin to post guards and "
 "leave torches burning all night. These measures do little to help them."
 msgstr ""
-"All through the summer and autumn, the necromancer and his apprentice travel "
-"through orc-held lands. At night, they cause skeletons and ghosts to emerge "
-"from the forests to terrorize and kill entire camps of orcs and their goblin "
-"minions. Word spreads among the orcish towns, which begin to post guards and "
-"leave torches burning all night. These measures do little to help them."
+"All through the summer and harvest, the necromancer and his apprentice "
+"travel through orc-held lands. At night, they cause skeletons and ghosts to "
+"emerge from the forests to terrorize and kill entire camps of orcs and their "
+"goblin minions. Word spreads among the orcish towns, which begin to post "
+"guards and leave torches burning all night. These measures do little to help "
+"them."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:28
