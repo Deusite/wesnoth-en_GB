@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-01-22 00:15-0500\n"
+"PO-Revision-Date: 2011-02-23 01:20-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
@@ -2587,15 +2587,13 @@ msgstr "some experienced warriors"
 
 #. [set_variable]
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:265
-#, fuzzy
 msgid "$left_behind_{NAME} and $l3_store_{NAME}[$i].name"
-msgstr "$left_behind and $l3_store_{NAME}[$i].name"
+msgstr "$left_behind_{NAME} and $l3_store_{NAME}[$i].name"
 
 #. [set_variable]
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:271
-#, fuzzy
 msgid "$left_behind_{NAME}|, $l3_store_{NAME}[$i].name"
-msgstr "$left_behind|, $l3_store_{NAME}[$i].name"
+msgstr "$left_behind_{NAME}|, $l3_store_{NAME}[$i].name"
 
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/09_Bounty_Hunters.cfg:381

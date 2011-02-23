@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-01-23 17:10-0500\n"
+"PO-Revision-Date: 2011-02-23 01:20-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
@@ -256,7 +256,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:45
-#, fuzzy
 msgid ""
 "Word quickly spread among the humans that this hero was none other than "
 "Prince Konrad of Wesnoth, faring to the ruins of Knalga to retrieve the "
@@ -2872,7 +2871,6 @@ msgstr ""
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:1629
-#, fuzzy
 msgid ""
 "Well, if you don’t mind me saying — that certainly isn’t the state of "
 "affairs now. Knalga lies in ruins, orcs ravage the surface, and these dark "
@@ -4830,7 +4828,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:95
-#, fuzzy
 msgid ""
 "The last time any dwarf set eyes on Konrad was when he set out to the "
 "eastern tunnels in search of the Sceptre of Fire, so he could claim his "
@@ -6485,7 +6482,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/08b_Ray_of_Hope.cfg:99
-#, fuzzy
 msgid ""
 "Well, that certainly isn’t the state of affairs now. Knalga lies in ruins, "
 "orcs ravish the surface, and dark and evil creatures haunt the underground "
