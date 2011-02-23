@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: en_GB\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-02-21 02:34+0100\n"
+"PO-Revision-Date: 2011-02-21 05:02+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: English (British) <en@li.org>\n"
 "Language: en_GB\n"
@@ -4452,8 +4452,8 @@ msgstr "undead"
 #. [trait]: id=elemental
 #: data/core/macros/traits.cfg:24 data/core/macros/traits.cfg:39
 #: data/core/macros/traits.cfg:54
-msgid "Immune to drain, poison, and plague"
-msgstr "Immune to drain, poison, and plague"
+msgid "Immune to drain, poison and plague"
+msgstr "Immune to drain, poison and plague"
 
 #. [trait]: id=mechanical
 #: data/core/macros/traits.cfg:37
@@ -4918,7 +4918,6 @@ msgstr "Elf"
 msgid "race^Elves"
 msgstr "Elves"
 
-# Over here.
 #. [race]: id=elf
 #: data/core/units.cfg:121
 msgid ""
@@ -5078,6 +5077,7 @@ msgstr "Human"
 msgid "race^Humans"
 msgstr "Humans"
 
+# of
 #. [race]: id=human
 #: data/core/units.cfg:174
 msgid ""
@@ -5137,11 +5137,11 @@ msgstr ""
 "Continent live under the rule of the Crown of Wesnoth. The humans first "
 "appeared on the Great Continent from a land far across the ocean to the "
 "West, the Green Isle, and soon established their capital at the inland city "
-"of Weldyn. Over the following centuries they have built up a number cities "
-"across the continent. The soldiers from the Crown of Wesnoth protect the "
-"country, forming the most organized military force in the known world. Its "
-"warriors come from the main provinces, where all men are conscripted at an "
-"early age.\n"
+"of Weldyn. Over the following centuries they have built up a number of "
+"cities across the continent. The soldiers from the Crown of Wesnoth protect "
+"the country, forming the most organized military force in the known world. "
+"Its warriors come from the main provinces, where all men are conscripted at "
+"an early age.\n"
 "\n"
 "<header>text='The Clansmen'</header>\n"
 "The eastern provinces of Wesnoth, known as the Clan Homelands, have a "
@@ -5226,7 +5226,7 @@ msgstr ""
 "Something like a fusion between humans and fish, the merfolk are an "
 "enigmatic race with both piscine and humanoid attributes. They have strong "
 "tails that lend themselves to quick movement in any watery environment while "
-"their dextrous hands and intelligent minds allow fine craftsmanship and "
+"their dexterous hands and intelligent minds allow fine craftsmanship and "
 "toolmaking. Semi-aquatic by nature, merfolk can breathe both water and air "
 "without difficulty. Despite being able to survive on land, they are much "
 "quicker and more agile in the water and will rarely be found far from the "
@@ -5345,8 +5345,8 @@ msgstr ""
 "more ruthless commanders who don't mind the ogres' brutality. Little is "
 "known about their biology or society, if they can truly be said to have one, "
 "but they are said to attack alongside wolves and other beasts. Whether this "
-"is a sign of cooperation, domestication, or simply mutual opportunism is not "
-"known."
+"is a sign of co-operation, domestication, or simply mutual opportunism is "
+"not known."
 
 #. [race]: id=orc
 #: data/core/units.cfg:245
@@ -5475,7 +5475,7 @@ msgstr ""
 "already almost as newborns are put in their place by their stronger "
 "siblings. The stronger ones will routinely grab most of the food and thus "
 "grow stronger still, while their weaker siblings do not. Many of these "
-"individuals tend to specialise in other skills, like archery or "
+"individuals tend to specialize in other skills, like archery or "
 "assassination."
 
 #. [race]: id=troll
@@ -5581,6 +5581,8 @@ msgstr "Undead"
 msgid "race+plural^Undead"
 msgstr "Undead"
 
+# nor<or
+# it's<its
 #. [race]: id=undead
 #: data/core/units.cfg:294
 msgid ""
@@ -5613,12 +5615,12 @@ msgstr ""
 "such. Almost any dead creature can, by a sufficiently skilled necromancer, "
 "be reanimated and rise again in undeath. Undead are for the most part "
 "unnatural but mindless constructs, obeying whoever created them without "
-"question nor thought. A greater mystery of necromancy is in how constructs "
+"question or thought. A greater mystery of necromancy is in how constructs "
 "are sustained without continuous effort from the necromancer. An undead "
 "creature does not require the constant attention of the necromancer to "
 "command and sustain, but can work autonomously according to the commands of "
-"it’s master. Only rarely, perhaps once every few months, does the "
-"necromancer need to maintain his creation.\n"
+"its master. Only rarely, perhaps once every few months, does the necromancer "
+"need to maintain his creation.\n"
 "\n"
 "Necromancy is almost solely limited to humans. Even the legends of magically "
 "apt races like elves and mermen tell of very few of their kind who have ever "
