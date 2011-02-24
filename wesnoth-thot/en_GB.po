@@ -1486,7 +1486,7 @@ msgid ""
 msgstr ""
 "We allow few outsiders in our forest paths, and no dwarves since the masked "
 "ones began to trouble our eastern margins. No axe-bearers shall come near "
-"our trees. Return from whence you came!"
+"our trees. Return whence you came!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:279
