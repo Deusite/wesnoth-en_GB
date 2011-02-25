@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.3.7+svn\n"
 "POT-Creation-Date: 2011-02-12 13:09+0100\n"
-"PO-Revision-Date: 2011-02-23 17:58+0100\n"
+"PO-Revision-Date: 2011-02-25 03:46+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
@@ -546,7 +546,7 @@ msgid ""
 "enable or disable summary uploads which will help us to better balance "
 "campaigns. All data submitted will be anonymous."
 msgstr ""
-"Click this button (the icon of an envelope) to open a dialogue where you can "
+"Click this button (the icon of an envelope) to open a dialog where you can "
 "enable or disable summary uploads which will help us to better balance "
 "campaigns. All data submitted will be anonymous."
 
@@ -685,7 +685,7 @@ msgstr ""
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject><textobject><phrase>
 #: /src/wesnoth/doc/manual/manual.en.xml:329
 msgid "Multiplayer dialog"
-msgstr "Multiplayer dialogue"
+msgstr "Multiplayer dialog"
 
 # type: Content of: <book><chapter><section><section><section><title>
 #. type: Content of: <book><chapter><section><section><section><title>
@@ -744,7 +744,7 @@ msgid ""
 "does show a list of official servers that can be used as backup if the main "
 "server is currently not available."
 msgstr ""
-"This option opens a dialogue box allowing you to enter the address of the "
+"This option opens a dialog box allowing you to enter the address of the "
 "machine to join. In this dialogue there also is the button \"View List\" "
 "that does show a list of official servers that can be used as backup if the "
 "main server is currently not available."
@@ -775,7 +775,7 @@ msgstr ""
 "option.  So if you got a server running in your local network, just enter "
 "the address and port number (default: 15000). If you for example want to "
 "connect to a server running on the machine with the address 192.168.0.10 and "
-"the default port, you would enter this in the dialogue: 192.168.0.10:15000"
+"the default port, you would enter this in the dialog: 192.168.0.10:15000"
 
 # type: Content of: <book><chapter><section><section><section><title>
 #. type: Content of: <book><chapter><section><section><section><title>
@@ -2114,7 +2114,7 @@ msgstr ""
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject><textobject><phrase>
 #: /src/wesnoth/doc/manual/manual.en.xml:1314
 msgid "Recruit dialog"
-msgstr "Recruit dialogue"
+msgstr "Recruit dialog"
 
 # type: Content of: <book><chapter><section><section><simpara>
 #. type: Content of: <book><chapter><section><section><simpara>
