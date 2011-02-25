@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: en_GB\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-12 13:10+0100\n"
-"PO-Revision-Date: 2011-02-25 03:27+0100\n"
+"PO-Revision-Date: 2011-02-25 03:50+0100\n"
 "Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: English (British) <en@li.org>\n"
 "Language: en_GB\n"
@@ -2540,7 +2540,7 @@ msgstr ""
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/08_The_Princess_of_Wesnoth.cfg:168
 msgid "The Queen has sent me to stop you, impostor!"
-msgstr "The Queen has sent me to stop you, imposter!"
+msgstr "The Queen has sent me to stop you, impostor!"
 
 #. [message]: role=Advisor
 #: data/campaigns/Heir_To_The_Throne/scenarios/08_The_Princess_of_Wesnoth.cfg:172
@@ -2552,7 +2552,7 @@ msgstr ""
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08_The_Princess_of_Wesnoth.cfg:176
 msgid "I’m no impostor. It seems that your mother has lied to you."
-msgstr "I’m no imposter. It seems that your mother has lied to you."
+msgstr "I’m no impostor. It seems that your mother has lied to you."
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/08_The_Princess_of_Wesnoth.cfg:181
@@ -2579,14 +2579,14 @@ msgstr "Maybe I was not using enough forces..."
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/08_The_Princess_of_Wesnoth.cfg:219
 msgid "I surrender! Don’t hurt me, impostor."
-msgstr "I surrender! Don’t hurt me, imposter."
+msgstr "I surrender! Don’t hurt me, impostor."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08_The_Princess_of_Wesnoth.cfg:223
 msgid ""
 "I said before I’m not an impostor, but if you yield, I will spare your life."
 msgstr ""
-"I said before I’m not an imposter, but if you yield, I will spare your life."
+"I said before I’m not an impostor, but if you yield, I will spare your life."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/08_The_Princess_of_Wesnoth.cfg:227
@@ -2649,7 +2649,7 @@ msgid ""
 "I see that your forces draw near, impostor! I’ll not be defeated in my own "
 "backyard so easily... Come forth and attack, my loyal duelist!"
 msgstr ""
-"I see that your forces draw near, imposter! I’ll not be defeated in my own "
+"I see that your forces draw near, impostor! I’ll not be defeated in my own "
 "backyard so easily... Come forth and attack, my loyal duelist!"
 
 #. [then]
@@ -3312,7 +3312,7 @@ msgstr "Stop! You shall not pass! Quick, reinforcements, protect the Princess!"
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:361
 msgid "You drive me from the field, but you have not vanquished me, impostor!"
-msgstr "You drive me from the field, but you have not vanquished me, imposter!"
+msgstr "You drive me from the field, but you have not vanquished me, impostor!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:372
@@ -3365,7 +3365,7 @@ msgid ""
 "men! Let us cross the river too! We will meet again, foul impostor."
 msgstr ""
 "I cannot believe it. They have made it away! We must make chase. After them, "
-"men! Let us cross the river too! We will meet again, foul imposter."
+"men! Let us cross the river too! We will meet again, foul impostor."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:439
@@ -6484,7 +6484,7 @@ msgid ""
 "would be on your side until we made it out of these lands, and I will keep "
 "my promise!"
 msgstr ""
-"I am an honourable princess, not an imposter like you! I promised that I "
+"I am an honourable princess, not an impostor like you! I promised that I "
 "would be on your side until we made it out of these lands, and I will keep "
 "my promise!"
 
