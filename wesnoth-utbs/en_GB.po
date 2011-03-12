@@ -17280,12 +17280,12 @@ msgstr "Second Morning"
 
 #. [time]: id=midday1
 #: data/campaigns/Under_the_Burning_Suns/utils/time.cfg:58
-msgid "First Midday"
+msgid "First Mid-Day"
 msgstr "First Midday"
 
 #. [time]: id=midday2
 #: data/campaigns/Under_the_Burning_Suns/utils/time.cfg:67
-msgid "Second Midday"
+msgid "Second Mid-Day"
 msgstr "Second Midday"
 
 #. [time]: id=afternoon1
