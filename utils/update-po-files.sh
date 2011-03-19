@@ -1,7 +1,7 @@
 #
 # Script to update po files after a po update
-# Requires a wesnoth checkout named "wesnoth" in the root of your home directory and
-# a git clone named "wesnoth-en_GB" in the root of your home directory
+# Requires a wesnoth checkout named "wesnoth-1.8" in the root of your home directory and
+# a git clone named "wesnoth-en_GB-1.8" in the root of your home directory
 #
 
 E=27
@@ -38,5 +38,5 @@ i=0
 while [ "$i" -lt "$E" ]
 do
 let "i++"
-cp ~/wesnoth/po/${td[$i]}/en_GB.po ~/wesnoth-en_GB/${td[$i]}/en_GB.po
+cp ~/wesnoth-1.8/po/${td[$i]}/en_GB.po ~/wesnoth-en_GB-1.8/${td[$i]}/en_GB.po
 done
