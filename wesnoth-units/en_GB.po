@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: en_GB\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-05-05 10:12+0200\n"
-"PO-Revision-Date: 2011-02-24 02:08+0100\n"
-"Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
+"PO-Revision-Date: 2011-05-07 16:44-0500\n"
+"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: English (British) <en@li.org>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"
@@ -3394,7 +3394,7 @@ msgstr ""
 #. [unit_type]: id=Arif, race=khalifate
 #: data/core/units/khalifate/Arif.cfg:4
 msgid "Arif"
-msgstr ""
+msgstr "Arif"
 
 #. [unit_type]: id=Arif, race=khalifate
 #: data/core/units/khalifate/Arif.cfg:17
@@ -3403,13 +3403,15 @@ msgid ""
 "sent against fortified enemy positions where their valor and skill with a "
 "sword allows them to assault seemingly inpenetrable defenses."
 msgstr ""
+"The Amir form the backbone of any Khalifate foot advance. They are often "
+"sent against fortified enemy positions where their valour and skill with a "
+"sword allows them to assault seemingly impenetrable defences."
 
 #. [attack]: type=blade
 #: data/core/units/khalifate/Arif.cfg:22
 #: data/core/units/khalifate/Ghazi.cfg:22
 #: data/core/units/khalifate/Khalid.cfg:22
 #: data/core/units/khalifate/Shuja.cfg:22
-#, fuzzy
 #| msgid "longsword"
 msgid "long sword"
 msgstr "longsword"
@@ -3417,7 +3419,7 @@ msgstr "longsword"
 #. [unit_type]: id=Batal, race=khalifate
 #: data/core/units/khalifate/Batal.cfg:4
 msgid "Batal"
-msgstr ""
+msgstr "Batal"
 
 #. [unit_type]: id=Tineen, race=khalifate
 #. [unit_type]: id=Mufariq, race=khalifate
@@ -3450,7 +3452,7 @@ msgstr ""
 #: data/core/units/khalifate/Tabib.cfg:22
 #: data/core/units/khalifate/Tineen.cfg:18
 msgid "There is currently no description available for this unit."
-msgstr ""
+msgstr "There is currently no description available for this unit."
 
 #. [attack]: type=pierce
 #: data/core/units/khalifate/Batal.cfg:30
@@ -3460,14 +3462,13 @@ msgstr ""
 #: data/core/units/khalifate/Rami.cfg:32
 #: data/core/units/khalifate/Saree.cfg:32
 msgid "composite bow"
-msgstr ""
+msgstr "composite bow"
 
 #. [unit_type]: id=Elder Falcon, race=falcon
 #: data/core/units/khalifate/Elder_Falcon.cfg:4
-#, fuzzy
 #| msgid "Elder Mage"
 msgid "Elder Falcon"
-msgstr "Elder Mage"
+msgstr "Elder Falcon"
 
 #. [unit_type]: id=Elder Falcon, race=falcon
 #: data/core/units/khalifate/Elder_Falcon.cfg:20
@@ -3476,44 +3477,47 @@ msgid ""
 "them. Their dives can be so fast that stories abound of them taking a foe's "
 "head clean off."
 msgstr ""
+"These falcons have been through many perils and somehow managed to survive "
+"them. Their dives can be so fast that stories abound of them taking a foe's "
+"head clean off."
 
 #. [attack]: type=pierce
 #: data/core/units/khalifate/Elder_Falcon.cfg:34
 #: data/core/units/khalifate/Falcon.cfg:33
 msgid "beak"
-msgstr ""
+msgstr "beak"
 
 #. [unit_type]: id=Falcon, race=falcon
 #: data/core/units/khalifate/Falcon.cfg:4
 msgid "Falcon"
-msgstr ""
+msgstr "Falcon"
 
 #. [unit_type]: id=Faris, race=khalifate
 #: data/core/units/khalifate/Faris.cfg:4
 msgid "Faris"
-msgstr ""
+msgstr "Faris"
 
 #. [unit_type]: id=Ghazi, race=khalifate
 #: data/core/units/khalifate/Ghazi.cfg:4
 msgid "Ghazi"
-msgstr ""
+msgstr "Ghazi"
 
 #. [attack]: type=impact
 #: data/core/units/khalifate/Ghazi.cfg:34
 #: data/core/units/khalifate/Khalid.cfg:34
 #: data/core/units/khalifate/Shuja.cfg:34
 msgid "shield bash"
-msgstr ""
+msgstr "shield bash"
 
 #. [unit_type]: id=Hadaf, race=khalifate
 #: data/core/units/khalifate/Hadaf.cfg:4
 msgid "Hadaf"
-msgstr ""
+msgstr "Hadaf"
 
 #. [unit_type]: id=Hakim, race=khalifate
 #: data/core/units/khalifate/Hakim.cfg:4
 msgid "Hakim"
-msgstr ""
+msgstr "Hakim"
 
 #. [unit_type]: id=Hakim, race=khalifate
 #: data/core/units/khalifate/Hakim.cfg:24
@@ -3521,11 +3525,13 @@ msgid ""
 "Ekim use their knowledge of ancient medicine and herbal concoctions to "
 "quickly bring the Khalifate soldiers back to the front lines."
 msgstr ""
+"Ekim use their knowledge of ancient medicine and herbal concoctions to "
+"quickly bring the Khalifate soldiers back to the front lines."
 
 #. [unit_type]: id=Jawal, race=khalifate
 #: data/core/units/khalifate/Jawal.cfg:4
 msgid "Jawal"
-msgstr ""
+msgstr "Jawal"
 
 #. [unit_type]: id=Rami, race=khalifate
 #. [unit_type]: id=Saree, race=khalifate
@@ -3538,18 +3544,21 @@ msgid ""
 "they. They love to circle and harass enemies from afar while using their "
 "superior speed to avoid heavy counter attack.."
 msgstr ""
+"Karadis are excellent horsemen and few can shoot as well from horseback as "
+"they. They love to circle and harass enemies from afar while using their "
+"superior speed to avoid heavy counter attack.."
 
 #. [attack]: type=blade
 #: data/core/units/khalifate/Jawal.cfg:23
 #: data/core/units/khalifate/Rami.cfg:23
 #: data/core/units/khalifate/Saree.cfg:23
 msgid "cavalry sword"
-msgstr ""
+msgstr "cavalry sword"
 
 #. [unit_type]: id=Jundi, race=khalifate
 #: data/core/units/khalifate/Jundi.cfg:4
 msgid "Jundi"
-msgstr ""
+msgstr "Jundi"
 
 #. [unit_type]: id=Mighwar, race=khalifate
 #. [unit_type]: id=Jundi, race=khalifate
@@ -3561,11 +3570,13 @@ msgid ""
 "The Khalifate uses these Hillmen as their foot force. They are versatile and "
 "excel in hilly terrain."
 msgstr ""
+"The Khalifate uses these Hillmen as their foot force. They are versatile and "
+"excel in hilly terrain."
 
 #. [unit_type]: id=Khaiyal, race=khalifate
 #: data/core/units/khalifate/Khaiyal.cfg:4
 msgid "Khaiyal"
-msgstr ""
+msgstr "Khaiyal"
 
 #. [unit_type]: id=Khaiyal, race=khalifate
 #: data/core/units/khalifate/Khaiyal.cfg:18
@@ -3574,41 +3585,44 @@ msgid ""
 "lance charge in order to save their poor horses' stamina before switching "
 "over to their trusty maces."
 msgstr ""
+"The Ghulam wear truly heavy armour, and thus close with a single high impact "
+"lance charge in order to save their poor horses' stamina before switching "
+"over to their trusty maces."
 
 #. [unit_type]: id=Khalid, race=khalifate
 #: data/core/units/khalifate/Khalid.cfg:4
 msgid "Khalid"
-msgstr ""
+msgstr "Khalid"
 
 #. [unit_type]: id=Mighwar, race=khalifate
 #: data/core/units/khalifate/Mighwar.cfg:4
 msgid "Mighwar"
-msgstr ""
+msgstr "Mighwar"
 
 #. [unit_type]: id=Monawish, race=khalifate
 #: data/core/units/khalifate/Monawish.cfg:4
 msgid "Monawish"
-msgstr ""
+msgstr "Monawish"
 
 #. [unit_type]: id=Mudafi, race=khalifate
 #: data/core/units/khalifate/Mudafi.cfg:4
 msgid "Mudafi"
-msgstr ""
+msgstr "Mudafi"
 
 #. [unit_type]: id=Mufariq, race=khalifate
 #: data/core/units/khalifate/Mufariq.cfg:4
 msgid "Mufariq"
-msgstr ""
+msgstr "Mufariq"
 
 #. [unit_type]: id=Muharib, race=khalifate
 #: data/core/units/khalifate/Muharib.cfg:4
 msgid "Muharib"
-msgstr ""
+msgstr "Muharib"
 
 #. [unit_type]: id=Naffat, race=khalifate
 #: data/core/units/khalifate/Naffat.cfg:4
 msgid "Naffat"
-msgstr ""
+msgstr "Naffat"
 
 #. [unit_type]: id=Naffat, race=khalifate
 #: data/core/units/khalifate/Naffat.cfg:17
@@ -3617,62 +3631,64 @@ msgid ""
 "generally sow terror amongst the enemy. Such tactics may also have other "
 "uses in a land of many strange wonders..."
 msgstr ""
+"Rami frequently use burning arrows to set fire to enemy fortifications and "
+"generally sow terror amongst the enemy. Such tactics may also have other "
+"uses in a land of many strange wonders..."
 
 #. [attack]: type=fire
 #: data/core/units/khalifate/Naffat.cfg:23
 #: data/core/units/khalifate/Qatif-al-nar.cfg:22
 #: data/core/units/khalifate/Tineen.cfg:22
 msgid "napalm attack"
-msgstr ""
+msgstr "napalm attack"
 
 #. [attack]: type=fire
 #: data/core/units/khalifate/Naffat.cfg:33
 #: data/core/units/khalifate/Qatif-al-nar.cfg:31
 #: data/core/units/khalifate/Tineen.cfg:31
-#, fuzzy
 #| msgid "fire claws"
 msgid "fire arrow"
-msgstr "fire claws"
+msgstr "fire arrow"
 
 #. [unit_type]: id=Qanas, race=khalifate
 #: data/core/units/khalifate/Qanas.cfg:4
 msgid "Qanas"
-msgstr ""
+msgstr "Qanas"
 
 #. [unit_type]: id=Qatif-al-nar, race=khalifate
 #: data/core/units/khalifate/Qatif-al-nar.cfg:4
 msgid "Qatif-al-nar"
-msgstr ""
+msgstr "Qatif-al-nar"
 
 #. [unit_type]: id=Rami, race=khalifate
 #: data/core/units/khalifate/Rami.cfg:4
 msgid "Rami"
-msgstr ""
+msgstr "Rami"
 
 #. [unit_type]: id=Rasikh, race=khalifate
 #: data/core/units/khalifate/Rasikh.cfg:4
 msgid "Rasikh"
-msgstr ""
+msgstr "Rasikh"
 
 #. [unit_type]: id=Saree, race=khalifate
 #: data/core/units/khalifate/Saree.cfg:4
 msgid "Saree"
-msgstr ""
+msgstr "Saree"
 
 #. [unit_type]: id=Shuja, race=khalifate
 #: data/core/units/khalifate/Shuja.cfg:4
 msgid "Shuja"
-msgstr ""
+msgstr "Shuja"
 
 #. [unit_type]: id=Tabib, race=khalifate
 #: data/core/units/khalifate/Tabib.cfg:4
 msgid "Tabib"
-msgstr ""
+msgstr "Tabib"
 
 #. [unit_type]: id=Tineen, race=khalifate
 #: data/core/units/khalifate/Tineen.cfg:4
 msgid "Tineen"
-msgstr ""
+msgstr "Tineen"
 
 #. [unit_type]: id=Mermaid Diviner, race=merman
 #: data/core/units/merfolk/Diviner.cfg:4
@@ -4334,7 +4350,6 @@ msgstr "Nagini Myrmidon"
 
 #. [female]
 #: data/core/units/nagas/Myrmidon.cfg:97
-#, fuzzy
 #| msgid ""
 #| "The most practiced of the nagani blademasters are initiated into the "
 #| "caste of the Myrmidon, masters of their twin-bladed art. They strike as "
@@ -4348,7 +4363,7 @@ msgid ""
 "only are they potent enemies on any open terrain, but their ability to swim "
 "allows them a deadly mobility."
 msgstr ""
-"The most practised of the nagani blademasters are initiated into the caste "
+"The most practised of the nagini blademasters are initiated into the caste "
 "of the Myrmidon, masters of their twin-bladed art. They strike as fast as "
 "the snakes which they resemble, and dance away from attacks with grace. Not "
 "only are they potent enemies on any open terrain, but their ability to swim "
@@ -4383,7 +4398,6 @@ msgstr "Nagini Warrior"
 
 #. [female]
 #: data/core/units/nagas/Warrior.cfg:94
-#, fuzzy
 #| msgid ""
 #| "Many of the young warriors of the nagani aspire for the day when they "
 #| "merit their second blade. Their martial practice of using twin blades is "
@@ -4399,7 +4413,7 @@ msgid ""
 "dodge from blows. This makes them potent on land, but the friction of water "
 "greatly impedes their ability to do this."
 msgstr ""
-"Many of the young warriors of the nagani aspire for the day when they merit "
+"Many of the young warriors of the nagini aspire for the day when they merit "
 "their second blade. Their martial practice of using twin blades is wholly "
 "unlike that of the Orcs and other races, for they have begun to learn the "
 "art of using their serpentine form to best effect, twisting and turning to "

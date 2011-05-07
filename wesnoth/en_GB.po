@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: en_GB\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-05-05 10:12+0200\n"
-"PO-Revision-Date: 2011-03-27 17:21-0500\n"
+"PO-Revision-Date: 2011-05-07 16:42-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: English (British) <en@li.org>\n"
 "Language: en_GB\n"
@@ -3775,7 +3775,7 @@ msgstr "Info: "
 
 #: src/game_events.cpp:2229
 msgid "Invalid value in the result key for [end_level]"
-msgstr ""
+msgstr "Invalid value in the result key for [end_level]"
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:205 src/multiplayer_lobby.cpp:435
 msgid "Unknown era: $era_id"
@@ -4597,7 +4597,7 @@ msgstr "Set the command used by the custom command hotkey"
 
 #: src/menu_events.cpp:2562
 msgid "Invoke a dialog allowing changing control of MP sides."
-msgstr ""
+msgstr "Invoke a dialog allowing changing control of MP sides."
 
 #: src/menu_events.cpp:2566
 msgid "Launch the gamestate inspector"
