@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: en_GB\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-05-05 10:12+0200\n"
-"PO-Revision-Date: 2011-05-07 16:42-0500\n"
-"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
+"PO-Revision-Date: 2011-05-07 22:54+0100\n"
+"Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: English (British) <en@li.org>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"
@@ -148,7 +148,7 @@ msgstr "Programming"
 #. [about]
 #: data/core/about.cfg:232
 msgid "General Purpose Administration and Coordination"
-msgstr "General Purpose Administration and Coordination"
+msgstr "General Purpose Administration and Co-ordination"
 
 #. [about]
 #: data/core/about.cfg:254
@@ -503,7 +503,7 @@ msgstr "Be more aggressive."
 #. [aggression]
 #: data/core/macros/ai_controller.cfg:42
 msgid "aggressive."
-msgstr "aggressive"
+msgstr "aggressive."
 
 #. [caution]
 #: data/core/macros/ai_controller.cfg:59
@@ -3107,11 +3107,11 @@ msgstr "There are no vacant castle tiles in which to recruit a unit."
 
 #: src/actions.cpp:533 src/actions.cpp:592 src/actions.cpp:1509
 msgid "An invalid attacker weapon got selected."
-msgstr "An invalid attacker weapon got selected."
+msgstr "An invalid attacker weapon was selected."
 
 #: src/actions.cpp:538
 msgid "An invalid defender weapon got selected."
-msgstr "An invalid defender weapon got selected."
+msgstr "An invalid defender weapon was selected."
 
 #: src/actions.cpp:2505
 msgid "Ambushed!"
