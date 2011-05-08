@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: en_GB\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-05-05 10:12+0200\n"
+"POT-Creation-Date: 2011-05-08 17:06+0200\n"
 "PO-Revision-Date: 2011-05-07 16:58-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: English (British) <en@li.org>\n"
@@ -1737,7 +1737,6 @@ msgstr "Kick/ban"
 
 #. [label]: id=side_title
 #: data/gui/default/window/mp_change_control.cfg:21
-#| msgid "Next Side"
 msgid "Side"
 msgstr "Side"
 
@@ -1748,7 +1747,6 @@ msgstr "Nick"
 
 #. [label]
 #: data/gui/default/window/mp_change_control.cfg:194
-#| msgid "Change Hotkey"
 msgid "Change control"
 msgstr "Change control"
 

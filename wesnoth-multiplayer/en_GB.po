@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: en_GB\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-05-05 10:12+0200\n"
+"POT-Creation-Date: 2011-05-08 17:06+0200\n"
 "PO-Revision-Date: 2011-05-07 16:54-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: English (British) <en@li.org>\n"
@@ -962,9 +962,6 @@ msgstr "2p — Hamlets"
 
 #. [multiplayer]: id=multiplayer_Hamlets
 #: data/multiplayer/scenarios/2p_Hamlets.cfg:6
-#| msgid ""
-#| "Warfare transforms the simple farms and villages of a peaceful region "
-#| "into a subtly parceled battlefield."
 msgid ""
 "Warfare transforms the simple farms and villages of a peaceful region into a "
 "subtly parceled battlefield. Designed by Doc Paterson."
@@ -1210,7 +1207,6 @@ msgstr "Designed by Doc Paterson."
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:352
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:356
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:360
-#| msgid "statue"
 msgid "Statue"
 msgstr "Statue"
 
@@ -1790,7 +1786,6 @@ msgstr ""
 
 #. [multiplayer]: id=multiplayer_Volcano
 #: data/multiplayer/scenarios/6p_Volcano.cfg:7
-#| msgid "6p — Hexcake"
 msgid "6p — Volcano"
 msgstr "6p — Volcano"
 
