@@ -3028,7 +3028,6 @@ msgstr "Death of Flar’Tar"
 
 #. [side]: type=General, id=Arthain
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:83
-#| msgid "Arthur"
 msgid "Arthain"
 msgstr "Arthain"
 
