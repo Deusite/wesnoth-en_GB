@@ -4258,37 +4258,31 @@ msgstr "Midnight"
 
 #. [time]: id=second_watch_hour1
 #: data/core/macros/schedules.cfg:191
-#| msgid "Second Watch"
 msgid "Second Watch — First Hour"
 msgstr "Second Watch — First Hour"
 
 #. [time]: id=second_watch_hour2
 #: data/core/macros/schedules.cfg:203
-#| msgid "Second Watch"
 msgid "Second Watch — Second Hour"
 msgstr "Second Watch — Second Hour"
 
 #. [time]: id=second_watch_hour3
 #: data/core/macros/schedules.cfg:215
-#| msgid "Second Watch"
 msgid "Second Watch — Third Hour"
 msgstr "Second Watch — Third Hour"
 
 #. [time]: id=second_watch_hour4
 #: data/core/macros/schedules.cfg:227
-#| msgid "Second Watch"
 msgid "Second Watch — Fourth Hour"
 msgstr "Second Watch — Fourth Hour"
 
 #. [time]: id=second_watch_hour5
 #: data/core/macros/schedules.cfg:239
-#| msgid "Second Watch"
 msgid "Second Watch — Fifth Hour"
 msgstr "Second Watch — Fifth Hour"
 
 #. [time]: id=second_watch_hour6
 #: data/core/macros/schedules.cfg:251
-#| msgid "Second Watch"
 msgid "Second Watch — Sixth Hour"
 msgstr "Second Watch — Sixth Hour"
 

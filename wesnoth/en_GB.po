@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: en_GB\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-08-27 10:14+0200\n"
-"PO-Revision-Date: 2011-08-27 16:19-0500\n"
+"PO-Revision-Date: 2011-09-03 16:32-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: English (British) <en@li.org>\n"
 "Language: en_GB\n"
@@ -135,9 +135,6 @@ msgstr "Chat message ageing"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:133
-#| msgid ""
-#| "Number of seconds to wait for a ping reply before we time out. Disable "
-#| "with 0."
 msgid ""
 "Number of minutes to wait before clearing an ingame chat message. Disable "
 "aging with 0."
@@ -6471,20 +6468,20 @@ msgid "female^neutral"
 msgstr "neutral"
 
 #: src/whiteboard/manager.cpp:972
-msgid "SHOW ALL allies' plans"
-msgstr ""
+#| msgid "SHOW ALL allies' plans"
+msgid "SHOW ALL allies’ plans"
+msgstr "SHOW ALL allies’ plans"
 
 #: src/whiteboard/manager.cpp:973
-msgid "HIDE ALL allies' plans"
-msgstr ""
+#| msgid "HIDE ALL allies' plans"
+msgid "HIDE ALL allies’ plans"
+msgstr "HIDE ALL allies’ plans"
 
 #: src/whiteboard/manager.cpp:987
-#| msgid "Show replay"
 msgid "Show plans for $player"
 msgstr "Show plans for $player"
 
 #: src/whiteboard/manager.cpp:989
-#| msgid "Replace with $player"
 msgid "Hide plans for $player"
 msgstr "Hide plans for $player"
 

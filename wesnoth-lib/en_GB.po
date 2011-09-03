@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: en_GB\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-08-27 10:14+0200\n"
-"PO-Revision-Date: 2011-08-27 16:33-0500\n"
+"PO-Revision-Date: 2011-09-03 16:32-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: English (British) <en@li.org>\n"
 "Language: en_GB\n"
@@ -78,13 +78,11 @@ msgstr "Coastal Reef"
 
 #. [terrain_type]: id=gray_reef
 #: data/core/terrain.cfg:93
-#| msgid "Coastal Reef"
 msgid "Gray Coastal Reef"
 msgstr "Grey Coastal Reef"
 
 #. [terrain_type]: id=tropical_reef
 #: data/core/terrain.cfg:113
-#| msgid "Coastal Reef"
 msgid "Tropical Coastal Reef"
 msgstr "Tropical Coastal Reef"
 
@@ -784,7 +782,6 @@ msgstr "Human City"
 
 #. [terrain_type]: id=windmill_village
 #: data/core/terrain.cfg:1380
-#| msgid "Ruined Hill Stone Village"
 msgid "Windmill Village"
 msgstr "Windmill Village"
 
@@ -2498,8 +2495,9 @@ msgid "Enable Planning Mode on Start"
 msgstr "Enable Planning Mode on Start"
 
 #: src/game_preferences_display.cpp:186
-msgid "Hide Allies' Plans by Default"
-msgstr ""
+#| msgid "Hide Allies' Plans by Default"
+msgid "Hide Allies’ Plans by Default"
+msgstr "Hide Allies’ Plans by Default"
 
 #: src/game_preferences_display.cpp:187
 msgid "Turn Bell"
@@ -2759,8 +2757,9 @@ msgid "Activates Planning Mode on game start"
 msgstr "Activates Planning Mode on game start"
 
 #: src/game_preferences_display.cpp:407
-msgid "Hides allies' Planning Mode plans in multiplayer games"
-msgstr ""
+#| msgid "Hides allies' Planning Mode plans in multiplayer games"
+msgid "Hides allies’ Planning Mode plans in multiplayer games"
+msgstr "Hides allies’ Planning Mode plans in multiplayer games"
 
 #: src/game_preferences_display.cpp:410
 msgid "Play a bell sound at the beginning of your turn"
