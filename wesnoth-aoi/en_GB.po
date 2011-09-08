@@ -1459,12 +1459,3 @@ msgid ""
 msgstr ""
 "I fear it will be so. We have won a first victory here, but dark times come "
 "upon its heels."
-
-#~ msgid "Time runs out"
-#~ msgstr "Time runs out"
-
-#~ msgid "(hardest)"
-#~ msgstr "(hardest)"
-
-#~ msgid "(easiest)"
-#~ msgstr "(easiest)"

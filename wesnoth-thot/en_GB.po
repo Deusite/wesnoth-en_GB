@@ -2689,6 +2689,3 @@ msgid ""
 msgstr ""
 "Aaarrgh! Though I die, the flame of righteousness shall send you down to "
 "darkness!"
-
-#~ msgid "Time runs out"
-#~ msgstr "Time runs out"

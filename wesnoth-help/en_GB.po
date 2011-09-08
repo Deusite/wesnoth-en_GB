@@ -6025,17 +6025,3 @@ msgstr "The Battle for Wesnoth Help"
 #: src/help.cpp:3216
 msgid "Parse error when parsing help text: "
 msgstr "Parse error when parsing help text: "
-
-#~ msgid " "
-#~ msgstr " "
-
-#~ msgid "<header>text='Race specific topics'</header>"
-#~ msgstr "<header>text='Race specific topics'</header>"
-
-#~ msgid "South Seas pidgin for human meat."
-#~ msgstr "South Seas pidgin for human meat."
-
-#~ msgid ""
-#~ " red if it has finished its turn (might still be able to move or attack)."
-#~ msgstr ""
-#~ " red if it has finished its turn (might still be able to move or attack)."

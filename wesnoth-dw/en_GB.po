@@ -3205,6 +3205,3 @@ msgid ""
 msgstr ""
 "This attack hits so hard that the defender is dazed and can no longer "
 "enforce a zone of control. The effect wears off on the defenders next turn"
-
-#~ msgid "I think that could be useful. I’ll take it."
-#~ msgstr "I think that could be useful. I’ll take it."
