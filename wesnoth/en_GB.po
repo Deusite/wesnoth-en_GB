@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: en_GB\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-10-07 22:09+0200\n"
-"PO-Revision-Date: 2011-10-07 17:15-0500\n"
+"PO-Revision-Date: 2011-10-07 17:25-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: English (British) <http://wiki.wesnoth.org/"
 "EnglishGBTranslation>\n"
@@ -4087,11 +4087,11 @@ msgstr "formula is incomplete at the end of the line"
 
 #: src/formula_string_utils_backend.cpp:440
 msgid "of missing paren in the formula should be $( ...)"
-msgstr "of missing paren in the formula should be $( ...)"
+msgstr "of missing parenthesis in the formula should be $( ...)"
 
 #: src/formula_string_utils_backend.cpp:494
 msgid " of missing closing paren"
-msgstr " of missing closing paren"
+msgstr " of missing closing parenthesis"
 
 #: src/game_config.cpp:314
 msgid "Invalid color range: "
@@ -6678,7 +6678,7 @@ msgstr ""
 
 #: src/variable.cpp:815
 msgid "attempt to get length of a non array/container."
-msgstr "attempt to get length of a non array/container."
+msgstr "attempt to get length of a non-array/container."
 
 #: src/whiteboard/manager.cpp:941
 msgid "SHOW ALL allies’ plans"
