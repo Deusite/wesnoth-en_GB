@@ -361,7 +361,6 @@ msgid "Could not save the map: $msg"
 msgstr "Could not save the map: $msg"
 
 #: src/gui/dialogs/editor_set_starting_position.cpp:84
-#| msgid "(Player)^None"
 msgid "player^None"
 msgstr "None"
 

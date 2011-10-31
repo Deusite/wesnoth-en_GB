@@ -2505,11 +2505,6 @@ msgstr "Feral"
 
 #. [topic]: id=traits_feral
 #: data/core/help.cfg:401
-#| msgid ""
-#| "Dwellings of sentient beings are not easily used for cover by feral "
-#| "creatures of low intelligence. As a result, <italic>text='feral'</italic> "
-#| "units receive a maximum of 40% defense in any land-based village "
-#| "regardless of base terrain."
 msgid ""
 "Dwellings of sentient beings are not easily used for cover by feral "
 "creatures of low intelligence. As a result, <italic>text='feral'</italic> "

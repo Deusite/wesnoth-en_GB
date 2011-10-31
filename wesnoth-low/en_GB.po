@@ -589,7 +589,6 @@ msgstr ""
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:421
-#| msgid "We surrender!"
 msgid "We are surrounded!"
 msgstr "We are surrounded!"
 
